@@ -1,4 +1,10 @@
-h1 {
+.jumbotron {
+  color: gold;
   font-weight: bold;
-  color: lightblue;
+  text-align: center;
+}
+
+#center {
+  text-align: center;
+  font-style: italic;
 }
